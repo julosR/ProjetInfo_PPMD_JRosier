@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/photosequence_gen" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
