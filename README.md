@@ -20,6 +20,19 @@ absolue de caméra.
      ```bash
      pip install -r requirements.txt
      ```
+     si cela ne marche pas éxécutez cette suite de commande sur **OSGeo4Shell**:
+     ```bash
+     py3_env
+     ```
+  
+     ```bash
+     pip install opencv-python
+     ```
+  
+     ```bash
+     pip install lxml
+     ```
+     
      Cette commande permettra d'installer toutes les dépendances nécessaires au bon fonctionnement du plugin.
 
 3. Pour installer le plugin dans QGIS :
