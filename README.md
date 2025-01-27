@@ -26,7 +26,7 @@ absolue de caméra.
    - Ouvrez votre version de QGIS.
    - Allez dans le menu **Extensions** > **Installer / Gérer les extensions**.
    - Sélectionnez l'option **Installer depuis un ZIP**.
-   - Glissez le fichier compressé `photosequence.zip` dans la fenêtre pour installer le plugin.
+   - Glissez le fichier compressé `generateur_photosequence.zip` dans la fenêtre pour installer le plugin.
    - Le plugin pourra être utilisé depuis la barre d'outil QGIS.
 	
 
