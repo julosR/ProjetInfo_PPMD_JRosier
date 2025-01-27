@@ -32,7 +32,7 @@ absolue de caméra.
 
 
 ## Utiliser l'interface
-![Interface](./img/interface.png)
+![Interface](./Images/interface_plugin.png)
 
 
 ## Support
