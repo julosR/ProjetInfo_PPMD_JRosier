@@ -33,7 +33,9 @@ absolue de caméra.
 
 ## Utiliser l'interface
 ![Interface](./Images/interface_plugin.png)
+Une fois exécuté, il est nécessaire de renseigner toutes les données demandées, telles que décrites dans la partie supérieure de l'interface. Pour sélectionner les fichiers, il suffit de cliquer sur le bouton '...' situé à droite des champs de saisie. Les fichiers d'orientation et de calibration doivent être au format MicMac. Des exemples de ces fichiers sont disponibles sous les chemins suivants : Images/Exemple_fichier_orientation.png et Images/Exemple_fichier_calibration.png.
 
+Une fois tous les fichiers renseignés, cliquez sur 'OK' pour lancer la génération de la photoséquence. Un projet QGIS sera alors créé, et les différentes couches y seront ajoutées.
 
 ## Support
 Pour toute question, contacter jules.rosier@ensg.eu.
